@@ -1,0 +1,7 @@
+-------------------- Rules For Snake Water And Gun Game ------------------------
+
+1. Gun always kill the Snake so Gun is won the match.
+
+2. Gun Damaged in the Water so Water is won the match.
+
+3. Snake can survive in the Water so Snake is won the match.

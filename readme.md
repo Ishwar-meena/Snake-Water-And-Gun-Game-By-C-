@@ -19,14 +19,18 @@ Welcome to the Snake, Water, and Gun game! This is a simple text-based game wher
 
 ## Screenshots
 
+### Loading
+![Loading](images/load.png)
 ### Main Menu
 ![Main Menu](images/main_menu.png)
 
 ### Gameplay
 ![Gameplay](images/gameplay.png)
+### Help
+![Help](images/help.png)
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/snake-water-gun-game.git
+   https://github.com/Ishwar-meena/Snake-Water-And-Gun-Game-By-C-
